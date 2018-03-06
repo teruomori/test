@@ -1,3 +1,0 @@
-test OK
-test OK
-direct insert OK
